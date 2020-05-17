@@ -10,7 +10,7 @@ def take_a_number(array, name)
 end
 
 def now_serving
-  if 
+  if
     return
   else
     return "There is nobody waiting to be served!"
