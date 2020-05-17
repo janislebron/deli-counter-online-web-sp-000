@@ -6,7 +6,7 @@ def line(array)
 end
 
 def take_a_number(array, name)
-  puts "#{name} #{array}"
+  puts "#{array}. #{name}"
 end
 
 def now_serving
